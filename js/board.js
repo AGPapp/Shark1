@@ -1,4 +1,4 @@
-game.board = {
+..game.board = {
     game: game,
     size: 15,
     cells: [],
